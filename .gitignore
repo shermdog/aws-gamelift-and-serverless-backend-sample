@@ -2,4 +2,4 @@
 .DS_Store
 FleetDeployment/Out-Null
 GameServiceAPI/.aws-sam/
-LinuxServerBuild/*GameLiftExampleServer*
+#LinuxServerBuild/*GameLiftExampleServer*
