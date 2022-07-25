@@ -265,7 +265,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerPrefab: {fileID: 4655882291869799809, guid: f8697ba2176fc4bfa995833f566a792d,
     type: 3}
-  rollingPlayerId: 0
 --- !u!4 &559951046
 Transform:
   m_ObjectHideFlags: 0
@@ -1352,9 +1351,9 @@ MonoBehaviour:
     type: 3}
   startGameButton: {fileID: 838351902}
   restartButton: {fileID: 2131968366}
-  apiEndpoint: https://7mxjjj558e.execute-api.us-east-1.amazonaws.com/Prod/
-  identityPoolID: us-east-1:ea327c7c-f920-46af-a514-aeaeaf09c1ce
-  regionString: us-east-1
+  apiEndpoint: https://9lghzdlbj8.execute-api.us-east-2.amazonaws.com/Prod/
+  identityPoolID: us-east-2:e052e8a5-f090-4ca7-9b47-d283351774de
+  regionString: us-east-2
   secondaryLocationRegionString: us-west-2
 --- !u!4 &1432566027
 Transform:
@@ -1603,7 +1602,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e8ff9237ea85c4078b91878b3c8e78eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  listeningPort: -1
 --- !u!4 &1999402421
 Transform:
   m_ObjectHideFlags: 0
