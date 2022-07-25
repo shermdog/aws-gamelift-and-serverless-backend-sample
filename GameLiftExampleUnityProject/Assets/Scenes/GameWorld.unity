@@ -1351,10 +1351,10 @@ MonoBehaviour:
     type: 3}
   startGameButton: {fileID: 838351902}
   restartButton: {fileID: 2131968366}
-  apiEndpoint: https://9lghzdlbj8.execute-api.us-east-2.amazonaws.com/Prod/
-  identityPoolID: us-east-2:e052e8a5-f090-4ca7-9b47-d283351774de
-  regionString: us-east-2
-  secondaryLocationRegionString: us-west-2
+  apiEndpoint: https://49whvpio99.execute-api.us-west-2.amazonaws.com/Prod/
+  identityPoolID: us-west-2:e30341fd-c860-4b6f-a004-173f3293e511
+  regionString: us-west-2
+  secondaryLocationRegionString: us-east-2
 --- !u!4 &1432566027
 Transform:
   m_ObjectHideFlags: 0
