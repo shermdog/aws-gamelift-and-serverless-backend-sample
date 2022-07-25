@@ -618,9 +618,9 @@ PlayerSettings:
   webGLThreadsSupport: 0
   webGLWasmStreaming: 0
   scriptingDefineSymbols:
-    1: SERVER;UNITY_SERVER
-    4: SERVER;UNITY_SERVER
-    7: SERVER;UNITY_SERVER
+    1: CLIENT;BOTCLIENT
+    4: CLIENT;BOTCLIENT
+    7: CLIENT;BOTCLIENT
   platformArchitecture: {}
   scriptingBackend:
     Standalone: 0
